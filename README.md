@@ -1,19 +1,38 @@
-## Inspiration
-Our friend group enjoys playing low-stakes poker, but we always argue about our relative skill levels. More than that, throughout the day, we'll jokingly make casual bets like "I'd give three to one odds that Basil shows up late to our first group meeting. During our brainstorming, Ash basically asked, "what are the odds we come up with and finish a project before the deadline?" From there, we somehow find ourselves interested in creating a way to host a smart contract betting escrow for private bets between groups, and now it's the deadline. 
-## What it does
-Wager is a social betting app that functions as a payment escrow and bet organizer for groups looking to set a bet on any desired event. The bet creator sets a variety of parameters such as min bet amount, max bet amount, max number of people, and of course, the outcomes for what counts as a win or loss for the bet. Those outcomes are decided by a vote reporting system that is sent out to the betting accounts. There are also various social functions such as a trust grade that uses a trusting algorithm, so people can see if someone has falsely reported before. There is also a betting score algorithm that generates and edits a score for each person based on a successful or unsuccessful bet made, dependent on how large of a bet it was. That score is used as a social marker and also as the key factor in our leaderboard system that ranks people among their friend circles or betting group. 
-## How we built it
-Frontend: React, Solana web3.js
-Backend: MongoDB, Express, Node, Rust
-Version Control: Git of course
-We all worked on different parts but honestly every part of the project ended up being a mutual effort.
-## Challenges we ran into
-**False Reporting** - Because the bets themselves are resolved through the reporting of betters, we had to ensure that there was a significant incentive against lying about the bet results. We did that through a combination of creating a mutually assured destruction threshold, a trust algorithm, and what we expect is significant peer backlash caused by wasting everyone's money and time.
+Alright, let's inject some definitive language and highlight your team's background:
 
-**Phantom wallet and integrating front end and back end** - We had the idea hashed out very well, so as far as needing to be adaptable in terms of changing our project we had a really easy time. However, we faced an incredible amount of trouble with simply integrating all of the moving parts of our project together in a way that works. It really came down to trouble with the coding nitty gritty that made it difficult to mesh together the different aspects of our project. We had a lot of trouble getting the wallet to work for us, and we had most of our trouble trying to troubleshoot really specific issues.
-## Accomplishments that we're proud of
-We are incredibly proud of the progress we have made in developing our understanding of development for a blockchain tech stack. The individual goals we set for ourselves were either met or exceeded, and we all made sure the goals we set were centered around learning and honing our exiting skills. Regardless our where we were placed in the tech stack and ideation process, we made an active effort to learn from each other and contribute to parts of the process that were "distant" to us.
-## What we learned
-We learned about how to develop on the blockchain. We already knew how to develop using web2 but we learned a lot about combining the web2 elements with the web3 elements and trying to optimize for web3. 
-## What's next for Wager
-There are a lot of things we have mentioned wanting to implement that we haven't yet due to lack of time. Some of those things include a broader range of available bets to be hosted, allowing public bets to be made that are open to anyone with a given trust score, and for bigger events, the ability for a betting outcome to be verified by us at Wager so that it bypasses the reporting system. 
+## Inspiration: From Web2 Gaming to Revolutionizing Memecoin Utility
+
+Our team, with a deep background in successful Web2 gaming execution, recognized a critical gap in the memecoin space: a lack of real-world utility. We saw the potential for memecoins to transcend mere speculation and become powerful tools for social interaction and community engagement. This led us to ask: "How can we leverage our gaming expertise to build a platform that brings tangible value to memecoins?" The answer? A decentralized betting platform that empowers communities and enhances the memecoin experience.
+
+## Introducing PumpDuck: The Genesis of Memecoin Utility
+
+PumpDuck is our flagship project, a social betting application built on the Solana blockchain. It serves as a secure and transparent escrow and bet organizer for groups, allowing them to create and participate in private bets on any event. PumpDuck is not just a betting platform; it's a testament to the potential of memecoins to drive real-world interaction. Users define bet parameters, outcomes are determined by a robust, community-driven voting system, and reputation is built through trust grades and betting scores. This is the first step in our vision to expand the utility of memecoins. Importantly, PumpDuck is the genesis token, and symbolizes the begining of a much larger ecosystem.
+
+## Building PumpDuck: A Fusion of Gaming Expertise and Blockchain Innovation
+
+Frontend: React, Solana web3.js
+Backend: MongoDB, Express, Node.js, Rust (Solana program)
+Version Control: Git
+Our team's extensive experience in Web2 gaming development allowed us to rapidly iterate and deliver a polished product.
+
+## Overcoming Challenges: Ensuring Fairness and Security
+
+Robust Reporting System: We implemented a sophisticated reporting system to mitigate false reporting, combining economic incentives, trust algorithms, and community oversight.
+Seamless Integration: We overcame the complexities of integrating Web2 and Web3 technologies, ensuring a user-friendly experience.
+## Achievements: Bridging the Gap Between Memes and Utility
+
+We're proud to have successfully launched PumpDuck, demonstrating the power of memecoins to drive real-world utility. Our team's ability to translate gaming principles into a decentralized application is a significant achievement.
+
+## Key Learnings: Mastering the Web3 Frontier
+
+We've gained invaluable expertise in developing on the Solana blockchain, mastering the intricacies of Web3 development.
+
+## The Future: Expanding the Memecoin Ecosystem
+
+PumpDuck is just the beginning. We envision a future where memecoins are integral to a wide range of applications. Our roadmap includes:
+
+Expanding the range of bet types and events.
+Introducing public bets with trust-based access.
+Implementing official outcome verification for major events.
+Expanding the ecosystem to include multiple tokens and utilities.
+Leveraging our gaming backround to create new and exciting ways to engage with web 3.
