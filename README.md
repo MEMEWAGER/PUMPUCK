@@ -4,11 +4,11 @@ Alright, let's inject some definitive language and highlight your team's backgro
 
 Our team, with a deep background in successful web3 gaming execution, recognized a critical gap in the memecoin space: a lack of real-world utility. We saw the potential for memecoins to transcend mere speculation and become powerful tools for social interaction and community engagement. This led us to ask: "How can we leverage our gaming expertise to build a platform that brings tangible value to memecoins?" The answer? A decentralized betting platform that empowers communities and enhances the memecoin experience.
 
-## Introducing PumpDuck: The Genesis of Memecoin Utility
+## Introducing Trump PUP: The Genesis of Memecoin Utility
 
-PumpDuck is our First MEMEWAGER ENABLED project, a social betting PROTOCOL built on the Solana blockchain. It serves as a secure and transparent escrow and bet organizer for groups, allowing them to create and participate in private bets on any event. PumpDuck is not just a betting platform; it's a testament to the potential of memecoins to drive real-world interaction. Users define bet parameters, outcomes are determined by a robust, community-driven voting system, and reputation is built through trust grades and betting scores. This is the first step in our vision to expand the utility of memecoins. Importantly, PumpDuck is the genesis token, and symbolizes the begining of a much larger ecosystem.
+Trump Pup is our First MemeBets enabled projects, a social betting PROTOCOL built on the Solana blockchain. It serves as a secure and transparent escrow and bet organizer for groups, allowing them to create and participate in private bets on any event. Trump Pup Utility is not just a new betting platform; it's a testament to the potential of memecoins to drive real-world interaction. Users define bet parameters, outcomes are determined by a robust, community-driven voting system, and reputation is built through trust grades and betting scores. This is the first step in our vision to expand the utility of memecoins. Importantly, PumpDuck is the genesis token, and symbolizes the begining of a much larger ecosystem.
 
-## Building PumpDuck: A Fusion of Gaming Expertise and Blockchain Innovation
+## Building Trump Pup: A Fusion of Gaming Expertise and Blockchain Innovation
 
 Frontend: React, Solana web3.js
 Backend: MongoDB, Express, Node.js, Rust (Solana program)
@@ -29,8 +29,8 @@ We've gained invaluable expertise in developing on the Solana blockchain, master
 
 ## The Future: Expanding the Memecoin Ecosystem
 
-PumpDuck is just the beginning. We envision a future where memecoins are integral to a wide range of applications.
+Trump Pup is just the beginning. We envision a future where memecoins are integral to a wide range of applications.
 
-Look for additional MEMEWAGER Tokens in the coming days and weeks!
+Look for additional MemeBets Tokens in the coming days and weeks!
 
 
